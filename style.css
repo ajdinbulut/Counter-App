@@ -1,0 +1,18 @@
+body{
+background-color: aquamarine;  
+text-align: center;  
+}
+form{
+    width: 400px;
+    height: 300px;
+    background-color: burlywood;
+    text-align: center;
+    border: 3px solid yellow;
+}
+div{
+    display: inline-block;
+    margin-top: 200px;
+}
+h1{
+    color: cyan;
+}
